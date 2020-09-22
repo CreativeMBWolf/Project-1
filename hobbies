@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mia Vazquez's Hobbies</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=none" />
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <header id="header">
+      <h1>Mia Vazquez</h1>
+    </header>
+    <main id="content">
+      <article>
+        <h2>Hobbies</h2>
+        <aside id="hobbies">
+          <h3>Shows</h3>
+          <ul>
+            <li class="show1"><a href="Legacies">Legacies</a></li>
+            <li class="show2"><a href="BNA">BNA</a></li>
+            <li class="show3"><a href="Warrior Nun">Warrior Nun</a></li>
+          </ul>
+        </aside>
+        <section id="music">
+          <h3>Music</h3>
+          <ul>
+            <li class="music1"><a href="Hip Hop">Hip Hop</a></li>
+            <li class="music2"><a href="Today's Hits">Today's Hits</a></li>
+            <li class="music3"><a href="Lofi">Lofi</a></li>
+            <li class="music4"><a href="Cinematic Music">Cinematic</a></li>
+            <li>
+              <h4>Freetime</h4>
+              <ul>
+                <li class="friends">Hangout</li>
+                <li class="art">Art</li>
+                <li class="work">Volunteer</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+      </article>
+    </main>
+    <footer id="footer">
+      <p>Site &copy; Mia Vazquez. All rights reserved</p>
+    </footer>
+  </body>
+</html>
